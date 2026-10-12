@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="about-banner.png" alt="Panashe — Curious by nature. Relentless in pursuit. Always building." width="100%">
+  <img src="https://github.com/marisapanashe01/Panashe-s-Portfolio/blob/main/panashegithubintro.png" alt="Panashe — Curious by nature. Relentless in pursuit. Always building." width="100%">
 </div>
 
 <div align="center">
